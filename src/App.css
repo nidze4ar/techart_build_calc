@@ -1,0 +1,52 @@
+.App {
+  width: 300px;
+  margin: 0 auto;
+  margin-top: 50px;
+  text-align: center;
+}
+.App-header {
+  height: 35px;
+}
+.App-header p {
+  font-size: 18px;
+  font-weight: 600;
+}
+.form {
+  margin-top: -20px;
+}
+.step{
+  color: gray;
+}
+.form-container {
+  min-height: 120px;
+  margin-bottom: 10px;
+  border: 1px solid rgb(80, 80, 80);
+}
+.step-title {
+  width: auto;
+  height: 35px;
+  padding-top: 12px;
+  color: rgb(83, 83, 153);
+  background-color: rgb(202, 202, 202);
+}
+
+input {
+  margin-top: 15px;
+  width: 70px;
+  height: 24px;
+}
+button {
+  width: 100px;
+  height: 35px;
+  margin-left: 5px;
+  font-size: 16px;
+  border: 1px solid black;
+  border-radius: 8px;
+} 
+.neweval-but {
+  width: 180px;
+}
+.result {
+  position: relative;
+  top: 20px;
+}
